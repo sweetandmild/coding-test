@@ -1,8 +1,8 @@
-package data_structure.array.ArrayControll;
+package data_structure.array.ArrayControl;
 
 import java.util.*;
 
-public class ArrayControll {
+public class ArrayControl {
 
     /**
      * 방법 1: Set을 이용해 중복 제거 후 내림차순 정렬
