@@ -1,4 +1,4 @@
-package data_structure.array;
+package data_structure.array.ArrayControll;
 
 import java.util.*;
 
