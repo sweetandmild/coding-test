@@ -126,3 +126,7 @@ list.stream()
 ---
 
 앞으로도 이런 식으로 코드와 개념을 함께 이해하며 정리해나가면 실력이 빠르게 성장할 수 있다. 더 궁금하거나 정리하고 싶은 주제가 있다면 언제든지 이어서 도움을 요청하자!
+
+---
+
+📁 관련 파일 보기: [UniquePairSum_useDISTINCT.java](./programmers/UniquePairSum/UniquePairSum_useDISTINCT.java)
