@@ -6,6 +6,7 @@
 
 ---
 
+
 ## ▶ 기존 구현 (원본 코드)
 📁 관련 파일 보기: [SupojaPatternCompare.java](./SupojaPatternCompare.java)
 ```java
