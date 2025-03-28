@@ -129,4 +129,4 @@ list.stream()
 
 ---
 
-📁 관련 파일 보기: [UniquePairSum_useDISTINCT.java](./programmers/UniquePairSum/UniquePairSum_useDISTINCT.java)
+📁 관련 파일 보기: [UniquePairSum_useDISTINCT.java](./UniquePairSum_useDISTINCT.java)

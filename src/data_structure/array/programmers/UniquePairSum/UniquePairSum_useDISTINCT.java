@@ -27,6 +27,5 @@ class UniquePairSum_useDISTINCT {
         return answer;
     }
 }
-
 // 풀이완료(나의 풀이) : 13분
 // 👉 참고 문서: [pair_sum_discussion.md](./pair_sum_discussion.md)
